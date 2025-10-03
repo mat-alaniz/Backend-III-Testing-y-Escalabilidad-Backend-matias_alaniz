@@ -20,7 +20,7 @@ export const generateMockUsers = (quantity) => {
             _id: faker.database.mongodbObjectId(),
             first_name: firstName,
             last_name: lastName,
-            email: faker.internet.email({ firstName, lastName }),
+            email: faker.internet.email() + Date.now() + Math.random(),
             password: hashedPassword,
             rol: randomRole,
             pets: [],

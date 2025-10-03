@@ -1,8 +1,43 @@
 //ruta de mocks, ruta de prueba
 import { Router } from "express";
 import { generateMockUsers } from "../utils/mockingUsers.js";
+import { generateMockPets } from "../utils/mockingPets.js";
+import { userService } from "../services/userService.js";
+import { petService } from "../services/petService.js";
 
 const router = Router();
+
+router.post("/generateData", async (req, res) => {
+  try {
+    const { users = 0, pets = 0 } = req.body; // cantidad de usuarios y mascotas a generar
+    let createdUsers = [];
+    let createdPets = [];
+    // generar y guardar usuarios si se solicitan
+    if (users > 0) {
+      const mockUsers = generateMockUsers(users);
+      createdUsers = await userService.createMultipleUsers(mockUsers);
+    }
+    // generar y guardar mascotas si se solicitan
+    if (pets > 0) {
+      const mockPets = generateMockPets(pets);
+      createdPets = await petService.createMultiplePets(mockPets);
+    }
+    res.json({
+      success: true,
+      message: `Datos generados y guardados exitosamente en mongoDB`,
+      results: {
+        users: createdUsers.length,
+        pets: createdPets.length,
+      },
+    });
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      message: "Error al generar los datos",
+      error: error.message,
+    });
+  }
+});
 
 router.get("/mockingusers", (req, res) => {
   try {
