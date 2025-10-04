@@ -7,7 +7,7 @@ export const userService = {
         const createdUsers = await userModel.insertMany(usersArray);
         return createdUsers;
     } catch (error) {
-        throw new Error('Error al crear usuarios: ${error.message}');
+        throw new Error(`Error al crear usuarios: ${error.message}`);
     }
   }
 };
