@@ -10,6 +10,7 @@ import adoptionsRouter from './routes/adoption.router.js';
 import sessionsRouter from './routes/sessions.router.js';
 import mocksRouter from './routes/mocks.router.js';
 import errorHandler from './middlewares/errorHandler.js';
+import compression from 'compression';
 
 dotenv.config();
 
@@ -17,6 +18,7 @@ const app = express();
 const PORT = process.env.PORT||8080;
 const connection = mongoose.connect(process.env.MONGO_URL);
 
+app.use(compression());
 app.use(express.json());
 app.use(cookieParser());
 
