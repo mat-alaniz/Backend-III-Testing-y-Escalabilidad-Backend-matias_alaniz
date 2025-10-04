@@ -27,9 +27,19 @@ const deleteUser = async(req,res) =>{
     res.send({status:"success",message:"User deleted"})
 }
 
+const getUsers = async (req, res, next) => {
+  try {
+    const users = await usersService.getAll();
+    res.json({ success: true, users });
+  } catch (error) {
+    next(error); 
+  }
+};
+
 export default {
     deleteUser,
     getAllUsers,
     getUser,
-    updateUser
+    updateUser,
+    getUsers
 }
