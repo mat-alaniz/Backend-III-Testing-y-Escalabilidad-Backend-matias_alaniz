@@ -53,4 +53,4 @@ mongoose.connection.on('error', (err) => {
 });
 
 
-app.listen(PORT,()=>console.log(chalk.green(`Servidor corriendo en http://localhost:${PORT}`)));
+app.listen(PORT, () => logger.info(`🚀 Servidor corriendo en http://localhost:${PORT}`));

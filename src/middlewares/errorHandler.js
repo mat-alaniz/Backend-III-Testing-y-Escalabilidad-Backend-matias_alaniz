@@ -1,7 +1,7 @@
 
 
 const errorHandler = (error, req, res, next) => {
-    console.log('🔴 ERROR:', error.message);
+    logger.error('Error capturado por middleware:', error.message);
     
     // Errores de MongoDB
     if (error.name === 'ValidationError') {
