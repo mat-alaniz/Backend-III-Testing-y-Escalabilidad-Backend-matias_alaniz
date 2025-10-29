@@ -12,6 +12,7 @@ import mocksRouter from './routes/mocks.router.js';
 import errorHandler from './middlewares/errorHandler.js';
 import compression from 'compression';
 import logger from './utils/logger.js';
+import { swaggerDocs } from './config/swagger.config.js';
 
 
 
@@ -33,6 +34,7 @@ app.use('/api/adoptions',adoptionsRouter);
 app.use('/api/sessions',sessionsRouter);
 app.use('/api/mocks',mocksRouter);
 app.use(errorHandler);
+swaggerDocs(app);
 
 // Evento cuando se conecta a MongoDB
 mongoose.connect(process.env.MONGO_URL)
