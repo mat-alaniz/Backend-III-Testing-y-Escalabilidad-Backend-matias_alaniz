@@ -38,3 +38,53 @@ describe('Adoptions Router', () => {
     });
   });
 });
+
+describe('POST /api/adoptions/:uid/:pid', () => {
+    it('deberia cear una adpocion existosamente cuando usuario y mascota existen realmente', async function () {
+        // Primero, obtener un usuario y una mascota existentes
+        const usersResponse = await request.get('/api/users');
+        const petsResponse = await request.get('/api/pets');
+        if (!usersResponse.body.payload.length || !petsResponse.body.payload.length) {
+            this.skip(); // Saltar el test si no hay usuarios o mascotas
+        }
+        
+        const availablePet = petsResponse.body.payload.find(pet => pet.adopted === false);
+        if (!availablePet) {
+            this.skip(); // Saltar el test si no hay mascotas disponibles para adopción
+        }
+        const userId = usersResponse.body.payload[0]._id;
+        const petId = availablePet._id;
+
+        const response = await request.post(`/api/adoptions/${userId}/${petId}`);
+
+        expect(response.status).to.equal(200);
+        expect(response.body.status).to.equal('success');
+        expect(response.body.message).to.include('adopted');
+    });
+    it('deberia retornar error 404 si el usuario no existe', async () => {
+        const nonExistentUserId = '507f1f77bcf86cd799439011';
+        const petsResponse = await request.get('/api/pets');
+        if (!petsResponse.body.payload.length) {
+            return; // No hay mascotas para probar
+        }
+        const petId = petsResponse.body.payload[0]._id;
+        const response = await request.post(`/api/adoptions/${nonExistentUserId}/${petId}`);
+
+        expect(response.status).to.equal(404);
+        expect(response.body.status).to.equal('error');
+        expect(response.body.error).to.include('user')
+    });
+    it('deberia retornar error 404 si la mascota no existe', async () => {
+        const usersResponse = await request.get('/api/users');
+        const nonExistentPetId = '507f1f77bcf86cd799439011';
+        if (!usersResponse.body.payload.length) {
+            return; // No hay usuarios para probar
+        }
+        const userId = usersResponse.body.payload[0]._id;
+        const response = await request.post(`/api/adoptions/${userId}/${nonExistentPetId}`);
+
+        expect(response.status).to.equal(404);
+        expect(response.body.status).to.equal('error');
+        expect(response.body.error).to.include('not found');
+    });
+});
