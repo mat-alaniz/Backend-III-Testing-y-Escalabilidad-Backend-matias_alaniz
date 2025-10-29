@@ -403,3 +403,373 @@
 [2025-10-29T15:49:16.602Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
 [2025-10-29T15:49:17.705Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
 [2025-10-29T15:49:17.710Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:55:13.179Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:13.185Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:14.351Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:55:14.357Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:55:32.457Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:32.463Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:33.616Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:55:33.622Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:55:36.307Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:36.312Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:37.301Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:55:37.307Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:55:45.530Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:45.536Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:47.157Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:47.164Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:48.030Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:55:48.037Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:55:51.467Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:51.472Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:53.427Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:53.433Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:55.299Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:55.308Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:56.747Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:56.752Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:58.538Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:55:58.542Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:55:59.523Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:55:59.531Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:11.607Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:11.623Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:13.047Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:13.052Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:14.577Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:14.584Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:16.207Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:16.223Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:18.482Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:18.487Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:20.509Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:20.529Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:22.007Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:22.018Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:23.072Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:23.079Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:24.415Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:24.420Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:25.539Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:25.547Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:29.248Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:29.255Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:30.212Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:30.217Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:33.370Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:33.376Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:34.644Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:34.651Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:36.879Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:36.887Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:39.117Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:39.122Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:41.160Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:41.167Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:42.182Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:42.189Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:44.223Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:44.230Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:45.197Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:45.208Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:47.023Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:47.029Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:56:48.025Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:56:48.032Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:56:58.774Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:56:58.784Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:00.007Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:00.014Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:00.965Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:00.971Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:06.355Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:06.361Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:07.859Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:07.864Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:08.889Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:08.895Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:10.553Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:10.558Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:12.597Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:12.602Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:14.070Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:14.077Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:45.769Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:45.782Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:47.055Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:47.063Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:49.167Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:49.172Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:50.372Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:50.377Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:51.347Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:51.353Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:56.560Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:56.575Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:57:57.541Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:57:57.549Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:57:59.277Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:57:59.283Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:00.339Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:00.343Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:02.968Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:02.980Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:03.868Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:03.873Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:06.122Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:06.128Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:07.115Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:07.122Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:10.457Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:10.463Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:11.618Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:11.624Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:14.592Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:14.598Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:15.719Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:15.724Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:20.457Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:20.464Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:21.514Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:21.520Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:25.089Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:25.095Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:28.023Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:28.053Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:29.031Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:29.037Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:30.611Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:30.634Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:31.621Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:31.630Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:33.131Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:33.143Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:34.155Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:34.162Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:35.927Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:35.933Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:36.917Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:36.924Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:40.279Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:40.284Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:41.318Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:41.324Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:42.977Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:42.986Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:44.092Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:44.099Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:45.106Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:45.113Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:46.927Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:46.933Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:48.404Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:48.413Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:49.637Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:49.641Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:50.739Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:50.745Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:53.037Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:53.042Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:54.117Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:54.123Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:58:56.205Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:58:56.210Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:58:57.137Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:58:57.142Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:03.091Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:03.098Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:04.154Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:04.161Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:05.747Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:05.752Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:06.713Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:06.722Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:09.978Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:09.984Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:10.921Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:10.924Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:12.229Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:12.238Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:13.270Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:13.280Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:17.982Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:17.989Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:19.152Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:19.159Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:29.414Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:29.419Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:30.518Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:30.524Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:37.159Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:37.176Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:38.169Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:38.174Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:39.897Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:39.902Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:40.914Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:40.923Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:45.897Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:45.906Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:46.761Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:46.764Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:49.195Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:49.201Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:50.657Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:50.662Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:51.665Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:51.672Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T15:59:54.047Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:54.054Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:56.417Z] INFO: Iniciando servidor Express...
+[2025-10-29T15:59:56.422Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T15:59:57.506Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T15:59:57.515Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:09.794Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:09.808Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:10.820Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:10.834Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:22.444Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:22.458Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:23.514Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:23.520Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:29.142Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:29.149Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:30.550Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:30.556Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:31.810Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:31.819Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:35.433Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:35.438Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:36.518Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:36.523Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:42.147Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:42.152Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:43.243Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:43.250Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:46.638Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:46.644Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:47.780Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:47.786Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:00:57.042Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:00:57.048Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:00:58.229Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:00:58.236Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:05.050Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:05.056Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:06.215Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:06.222Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:08.803Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:08.808Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:09.800Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:09.806Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:11.679Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:11.685Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:12.667Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:12.673Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:14.593Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:14.599Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:16.360Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:16.367Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:18.370Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:18.375Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:19.424Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:19.432Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:24.085Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:24.090Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:25.831Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:25.838Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:26.709Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:26.716Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:33.937Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:33.942Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:36.167Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:36.172Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:37.244Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:37.253Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:39.007Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:39.013Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:39.952Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:39.957Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:47.238Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:47.273Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:48.671Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:48.677Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:50.757Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:50.764Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:52.607Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:52.612Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:53.627Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:53.633Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:01:58.641Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:01:58.652Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:01:59.669Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:01:59.676Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:01.759Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:01.765Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:02.614Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:02.619Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:05.718Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:05.723Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:06.735Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:06.743Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:13.349Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:13.354Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:15.248Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:15.255Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:17.384Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:17.390Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:19.186Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:19.193Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:20.787Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:20.792Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:21.702Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:21.707Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:40.181Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:40.195Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:41.220Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:41.226Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:53.714Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:53.719Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:54.686Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:54.693Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:02:57.744Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:02:57.750Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:02:58.856Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:02:58.863Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:03.385Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:03.390Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:04.485Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:04.493Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:11.684Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:11.689Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:13.280Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:13.284Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:14.315Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:14.320Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:16.264Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:16.271Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:18.487Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:18.493Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:19.535Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:19.542Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:21.905Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:21.910Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:23.022Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:23.029Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:39.986Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:39.990Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:41.052Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:41.057Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:03:46.969Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:03:46.976Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:03:48.009Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:03:48.020Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:05:28.967Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:05:28.973Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:05:30.305Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:05:30.313Z] INFO: ✅ Conectado a MongoDB Atlas
+[2025-10-29T16:05:44.120Z] INFO: Iniciando servidor Express...
+[2025-10-29T16:05:44.127Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-10-29T16:05:45.255Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-10-29T16:05:45.261Z] INFO: ✅ Conectado a MongoDB Atlas
