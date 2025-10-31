@@ -1,7 +1,8 @@
 import { expect } from 'chai';
 import supertest from 'supertest';
+import app from '../src/app.js';
 
-const request = supertest('http://localhost:8080');
+const request = supertest(app);
 
 describe('Adoptions Router', () => {
   describe('GET /api/adoptions', () => {
