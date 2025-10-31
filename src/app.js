@@ -31,40 +31,24 @@ app.use('/api/adoptions', adoptionsRouter);
 app.use('/api/sessions', sessionsRouter);
 app.use('/api/mocks', mocksRouter);
 
-// Documentación antes del handler de errores
+
 swaggerDocs(app);
 
-// middleware global de errores: debe ir al final
+
 app.use(errorHandler);
 
 // --- CONEXIÓN A MONGODB --- //
-const connectDB = async () => {
-  try {
-    await mongoose.connect(process.env.MONGO_URL);
-    logger.info('✅ Conectado a MongoDB Atlas');
-  } catch (error) {
-    logger.error('❌ Error conectando a MongoDB:', error.message);
-  }
-};
+const connection = mongoose.connect(process.env.MONGO_URL);
 
 // Eventos de conexión de MongoDB
 mongoose.connection.on('connected', () => {
-  logger.info('✅ Base de datos MongoDB conectada exitosamente');
+    logger.info('✅ Base de datos MongoDB conectada exitosamente');
 });
 
 mongoose.connection.on('error', (err) => {
-  logger.error('❌ Error en conexión MongoDB:', err.message);
+    logger.error('❌ Error en conexión MongoDB:', err.message);
 });
 
-// --- EXPORTACIÓN PARA TESTING --- //
+app.listen(PORT, () => logger.info(`🚀 Servidor corriendo en http://localhost:${PORT}`));
+
 export default app;
-
-// --- INICIO DEL SERVIDOR (solo en entorno distinto a "test") --- //
-const startServer = async () => {
-  await connectDB();
-  app.listen(PORT, () => logger.info(`🚀 Servidor corriendo en http://localhost:${PORT}`));
-};
-
-if (process.env.NODE_ENV !== 'test') {
-  startServer();
-}

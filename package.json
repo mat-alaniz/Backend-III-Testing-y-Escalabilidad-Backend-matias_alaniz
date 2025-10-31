@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
+   "scripts": {
     "start": "nodemon src/app.js",
     "test": "mocha test/**/*.js --timeout 10000",
-    "test:adoptions": "cross-env NODE_ENV=test mocha test/adoptions.test.js --timeout 10000"
+    "test:adoptions": "mocha test/adoptions.test.js --timeout 10000",
+    "test:users": "mocha test/users.test.js --timeout 10000",
+    "test:pets": "mocha test/pets.test.js --timeout 10000"
   },
   "keywords": [],
   "author": "",
@@ -30,6 +32,7 @@
   },
   "devDependencies": {
     "chai": "^4.5.0",
+    "cross-env": "^10.1.0",
     "mocha": "^10.8.2",
     "nodemon": "^3.1.10",
     "supertest": "^7.1.4"

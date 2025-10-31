@@ -1,49 +1,59 @@
 import PetDTO from "../dto/Pet.dto.js";
-import { petsService } from "../services/index.js"
+import { petsService } from '../services/petService.js';
 import __dirname from "../utils/index.js";
 
-const getAllPets = async (req, res, next) => {
+export const getAllPets = async (req, res, next) => {
   try {
     const pets = await petsService.getAll();
-    res.send({ status: "success", payload: pets });
+    return res.status(200).json({ status: 'success', payload: pets });
   } catch (error) {
     next(error);
   }
-}
+};
 
-const createPet = async (req, res, next) => {
+export const getPetById = async (req, res, next) => {
   try {
-    const { name, specie, birthDate } = req.body;
-    if (!name || !specie || !birthDate)
-      return res.status(400).send({ status: "error", error: "Incomplete values" });
-    const pet = PetDTO.getPetInputFrom({ name, specie, birthDate });
-    const result = await petsService.create(pet);
-    res.send({ status: "success", payload: result });
+    const { pid } = req.params;
+    const pet = await petsService.getById(pid);
+    if (!pet) return res.status(404).json({ status: 'error', error: 'Pet not found' });
+    return res.status(200).json({ status: 'success', payload: pet });
   } catch (error) {
     next(error);
   }
-}
+};
 
-const updatePet = async (req, res, next) => {
+export const createPet = async (req, res, next) => {
   try {
-    const petUpdateBody = req.body;
-    const petId = req.params.pid;
-    const result = await petsService.update(petId, petUpdateBody);
-    res.send({ status: "success", message: "pet updated" });
+    const petData = req.body;
+    const created = await petsService.create(petData);
+    return res.status(201).json({ status: 'success', payload: created, message: 'Pet created' });
   } catch (error) {
     next(error);
   }
-}
+};
 
-const deletePet = async (req, res, next) => {
+export const updatePet = async (req, res, next) => {
   try {
-    const petId = req.params.pid;
-    const result = await petsService.delete(petId);
-    res.send({ status: "success", message: "pet deleted" });
+    const { pid } = req.params;
+    const updateData = req.body;
+    const updated = await petsService.update(pid, updateData);
+    if (!updated) return res.status(404).json({ status: 'error', error: 'Pet not found' });
+    return res.status(200).json({ status: 'success', payload: updated, message: 'Pet updated' });
   } catch (error) {
     next(error);
   }
-}
+};
+
+export const deletePet = async (req, res, next) => {
+  try {
+    const { pid } = req.params;
+    const deleted = await petsService.delete(pid);
+    if (!deleted) return res.status(404).json({ status: 'error', error: 'Pet not found' });
+    return res.status(200).json({ status: 'success', message: 'Pet deleted' });
+  } catch (error) {
+    next(error);
+  }
+};
 
 const createPetWithImage = async (req, res, next) => {
   try {
@@ -69,5 +79,6 @@ export default {
   createPet,
   updatePet,
   deletePet,
-  createPetWithImage
+  createPetWithImage,
+  getPetById
 }

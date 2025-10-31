@@ -3,7 +3,7 @@ import { Router } from "express";
 import { generateMockUsers } from "../utils/mockingUsers.js";
 import { generateMockPets } from "../utils/mockingPets.js";
 import { userService } from "../services/userService.js";
-import { petService } from "../services/petService.js";
+import { petsService as petService } from "../services/petService.js";
 
 const router = Router();
 

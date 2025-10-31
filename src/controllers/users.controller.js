@@ -36,7 +36,13 @@ const updateUser = async (req, res, next) => {
 const deleteUser = async (req, res, next) => {
   try {
     const userId = req.params.uid;
-    const result = await usersService.getUserById(userId);
+    const user = await usersService.getUserById(userId);
+    if (!user) return res.status(404).send({ status: "error", error: "User not found" });
+
+    // Intentar eliminar y devolver resultado
+    const result = await usersService.delete(userId); // o deleteUser según tu service
+    if (!result) return res.status(500).send({ status: "error", error: "Could not delete user" });
+
     res.send({ status: "success", message: "User deleted" });
   } catch (error) {
     next(error);

@@ -11,6 +11,9 @@ export default class GenericRepository {
     getBy = (params) =>{
         return this.dao.getBy(params);
     }
+    getById = (id) => {
+    return this.dao.getBy({ _id: id });
+   }
 
     create = (doc) =>{
         return this.dao.save(doc);
