@@ -48,7 +48,7 @@ npm run test:adoptions
 
 npm test
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 Matías Alaniz
 
 🔗 GitHub: [mat-alaniz](https://github.com/mat-alaniz)
