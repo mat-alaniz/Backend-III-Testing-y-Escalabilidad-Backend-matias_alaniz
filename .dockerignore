@@ -1,7 +1,25 @@
+# Dependencias locales (se reinstalan dentro del contenedor)
 node_modules
-npm-debug.log
-.env
-.DS_Store
-tmp
-logs
 
+# Archivos de entorno (no deben subirse nunca)
+.env
+.env.*
+
+# Logs y temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos del editor o sistema
+.vscode
+.idea
+
+# Archivos de Docker locales
+docker-compose.yml

@@ -3482,3 +3482,9 @@
 [2025-10-31T22:35:56.088Z] INFO: Iniciando servidor Express...
 [2025-10-31T22:35:56.107Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
 [2025-10-31T22:35:57.218Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-11-04T23:34:53.654Z] INFO: Iniciando servidor Express...
+[2025-11-04T23:34:53.675Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-11-04T23:34:54.962Z] INFO: ✅ Base de datos MongoDB conectada exitosamente
+[2025-11-04T23:38:30.926Z] INFO: Iniciando servidor Express...
+[2025-11-04T23:38:30.940Z] INFO: 🚀 Servidor corriendo en http://localhost:8080
+[2025-11-04T23:38:32.162Z] INFO: ✅ Base de datos MongoDB conectada exitosamente

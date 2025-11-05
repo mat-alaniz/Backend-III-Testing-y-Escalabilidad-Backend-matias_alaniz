@@ -25,7 +25,7 @@ docker run -p 8080:8080 --env-file .env matecaialaniz/pets-app
 ## Construir localmente
 
 # Clonar el repositorio
-git clone [tu-repo-url]
+git clone https://github.com/mat-alaniz/Backend-III-Testing-y-Escalabilidad-Backend-matias_alaniz
 
 # Construir imagen
 docker build -t pets-app .
