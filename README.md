@@ -15,7 +15,7 @@ Sistema backend para gestión de usuarios, mascotas y adopciones desarrollado co
 
 ### 📦 Imagen Docker
 La aplicación está disponible como imagen Docker en:
-**`docker.io/matecaialaniz/pets-app`**
+**`[docker.io/matecaialaniz/pets-app](https://hub.docker.com/repository/docker/matecaialaniz/pets-app/general)`**
 
 ### 🎯 Ejecutar con Docker
 
